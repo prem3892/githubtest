@@ -18,4 +18,9 @@
 
 
 
-// hello world 
+// after upload use three command to modify files 
+
+// 1. git add .
+// 2. git commit -m 'jhvhj'
+// 3. git push origin main  
+
